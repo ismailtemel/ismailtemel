@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm İsmail
-- I'm Backend Developer with .Net Core
+- I'm Backend Developer
 
 - .Net Core / JS / HTML / CSS
 
