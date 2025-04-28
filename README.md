@@ -13,12 +13,12 @@
 - Araçlar: Git, GitHub, Visual Studio, VS Code
 
 ## 📫 Bana Ulaşın
-- LinkedIn: [LinkedIn Profil Linkin]
-- E-mail: [E-posta adresin]
-
----
+- LinkedIn: https://www.linkedin.com/in/ismail-temel/
+- E-mail: ismailtemel2000@gmail.com
 
 > "Başarı, küçük adımların sabırla tekrarlanmasıyla gelir." 🚀
+
+
 
 
 
