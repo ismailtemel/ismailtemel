@@ -1,16 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ismail</h1>
-<h3 align="center">I'm Software Developer</h3>
+# 👋 Merhaba! Ben İsmail
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ismail-temel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ismail-temel/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15454255/%c4%b0smail-temel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15454255/%c4%b0smail-temel" height="30" width="40" /></a>
-</p>
+## 💻 Hakkımda
+- 🌱 Şu anda **.NET Core**, **JavaScript** ve **React** üzerinde çalışıyorum.
+- 🔥 Yeni teknolojiler öğrenmeye ve projeler üretmeye tutkuyla bağlıyım.
+- 🎯 Amacım: Kullanıcı odaklı, performansı yüksek ve ölçeklenebilir uygulamalar geliştirmek.
+- 🧠 Sürekli öğrenmeyi ve kendimi geliştirmeyi öncelik ediniyorum.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+## 🚀 Teknolojiler ve Araçlar
+- Backend: .NET Core, Entity Framework, RESTful API
+- Frontend: JavaScript, React.js, HTML5, CSS3
+- Veritabanı: SQL Server
+- Araçlar: Git, GitHub, Visual Studio, VS Code
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailtemel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 Bana Ulaşın
+- LinkedIn: [LinkedIn Profil Linkin]
+- E-mail: [E-posta adresin]
+
+---
+
+> "Başarı, küçük adımların sabırla tekrarlanmasıyla gelir." 🚀
 
 
 
