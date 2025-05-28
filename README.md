@@ -1,4 +1,4 @@
-# 👋 Merhaba! Ben İsmail
+👋 Merhaba! Ben İsmail
 
 
 
